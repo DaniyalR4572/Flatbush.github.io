@@ -7,7 +7,7 @@
 
 ### Primary Zip Code
 - 11226
-- 
+
 ### H3 Other Zip Codes Included
 - 11203
 - 11210
