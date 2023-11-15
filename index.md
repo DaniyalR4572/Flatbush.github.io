@@ -71,4 +71,18 @@
 
 Fuel emission in Flatbush is excessive. The primary types of fuel used in Flatbush are No. 4 and No. 6 fuels which both correlate to a high amount of energy used which can be seen by this graph comparing primary fuel sources to total gallons of fuel used.
 
+![Flatbush Primary Fuel Type Vs Total Gallons of Fuel Used](Flatbush_Fuel_Type.png)
+
+Fuel usage is also correlated to burner models used in various Flatbush buildings. This graph measures fuel usage in Flatbush grouped by burner model. Some burners here are coorleated witha much higher fuel usage overall. Some even double the fuel usage of others.
+
+![Flatbush Burner Model Vs Total Gallons of Fuel Used](Flatbush_Burner.png)
+
+The type of building, as in an elevator vs walk up apartment building, also correlates to fuel usage. As it can be seen here, elevator apartments are coorelated to fuel usage nearly double that of walk-up apartments. This could be due to the fact that elevator buildings usually have more floors than walk-ups and thus require more fuel. The second graph displays the coorelation between fuel used and the amount of floors present in a building. The graph trends upwards as the number of floors increases.
+
+![Flatbush Building Type Vs Total Gallons of Fuel Used](Flatbush_Elevator.png)
+
+![Flatbush Floors Vs Total Gallons of Fuel Used](Flatbush_Floors.png)
+
+
+
 
