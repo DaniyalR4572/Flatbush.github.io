@@ -27,7 +27,7 @@
 - 60 to 69: 9.78%
 - 70 to 79: 5.41%
 - 80 and Over: 2.59%
-- 
+
 ### Male to Female
 
 **Male:** 45.67%
@@ -42,7 +42,7 @@
 - Hispanic: 14.81%
 - Two+: 3.73%
 - Other: 0.74%
-- 
+
 ### Education
 
 - Less Than High School: 12.97%
@@ -50,7 +50,7 @@
 - Some College: 21.75%
 - Bachelor's Degree: 20.48%
 - Post-Grad: 12.44%
-- 
+
 ### Income
 
 - Income Per Capita: $34,323
