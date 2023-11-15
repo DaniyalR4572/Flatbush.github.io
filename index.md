@@ -9,7 +9,7 @@
 
 - 11226
 
-### H3 Other Zip Codes Included
+### Other Zip Codes Included
 
 - 11203
 - 11210
@@ -33,6 +33,7 @@
 ### Male to Female
 
 **Male:** 45.67%
+
 **Female:** 54.33%
 
 ### Race and Ethnicity
