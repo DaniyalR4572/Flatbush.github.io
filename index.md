@@ -1,5 +1,5 @@
 # Flatbush
-![Highlighted Flatbush Area](Flatbush Highlighted.jpg)
+![Highlighted Flatbush Area](Flatbush_Highlighted.png)
 
 ***Best known for busy commercial districts and streets featuring Victorian era mansions.*** 
 
